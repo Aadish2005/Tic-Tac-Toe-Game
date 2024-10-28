@@ -14,8 +14,7 @@ resetgame.onclick = () => {
     })
     
 }
-// for (let index = 0; index < buttons.length; index++) {
-//     buttons[index].
+
 buttons.forEach((button) => 
     {
         button.onclick = () => {
